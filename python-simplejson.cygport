@@ -1,5 +1,8 @@
 inherit distutils
 
+NAME="python-simplejson"
+VERSION=3.0.7
+RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python JSON decoder/encoder"
 DESCRIPTION="simplejson is a simple, fast, complete, correct and extensible
