@@ -1,7 +1,7 @@
 inherit distutils
 
 NAME="python-simplejson"
-VERSION=3.3.0
+VERSION=3.3.2
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python JSON decoder/encoder"
