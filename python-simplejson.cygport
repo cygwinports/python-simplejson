@@ -1,7 +1,7 @@
-inherit distutils
+inherit python-wheel
 
 NAME="python-simplejson"
-VERSION=3.6.5
+VERSION=3.10.0
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python JSON decoder/encoder"
